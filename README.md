@@ -1,15 +1,15 @@
 <h1 style="color:blue">E-Commerce Website</h1>
 <h3>Front End</h3>
 
-<img src="./Website Find and rent a room - Project/assets/images/index.png" />
+<img src="./public/fonts/images/index.png" />
 
 <h3>Back End</h3>
 
-<img src="./Website Find and rent a room - Project/assets/images/backend.png" />
+<img src="./public/fonts/images/backend.png" />
 
 <h3>Database Tables</h3>
 
-<img src="./Website Find and rent a room - Project/assets/images/databaseimg.png" />
+<img src="./public/fonts/images/databaseimg.png" />
 
 <h2 style="color:cyan">Installation</h2>
 <ul>
